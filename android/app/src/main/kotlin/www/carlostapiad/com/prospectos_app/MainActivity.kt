@@ -1,0 +1,6 @@
+package www.carlostapiad.com.prospectos_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
